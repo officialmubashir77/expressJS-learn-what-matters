@@ -1,0 +1,16 @@
+{
+  "name": "backend---expressjs-learn-wthat-matters",
+  "version": "1.0.0",
+  "description": "-- node vs express, node is the main thing express ke code sy ham server ka code likh paty hyn \r and server kaisa react kary ga wo bhi express ki help sy likhty hyn.",
+  "main": "ejsSetup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
